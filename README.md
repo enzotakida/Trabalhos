@@ -10,6 +10,7 @@ Nome do Repositório 2: Breve descrição do projeto. Exemplo: "Análise de clus
 
 🤝 Projetos Colaborativos
 Aqui estão alguns dos projetos em que colaborei e que merecem destaque:
+https://github.com/LeonardoKoide/PucTSP2024.1
 
 Nome do Repositório Colaborativo: Breve descrição do projeto e da sua contribuição. Exemplo: "Colaboração na implementação de algoritmos de clusterização e análise exploratória de dados."
 Nome do Repositório Colaborativo 2: Breve descrição do projeto e da sua contribuição. Exemplo: "Contribuição com pré-processamento de dados e otimização de modelos preditivos."
